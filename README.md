@@ -2,6 +2,12 @@
 
 LiftLab is a Flask prototype that compares two ways to schedule one elevator's pickup calls: nearest-call greedy and a priority queue. Configure the building, starting floor, travel and boarding time, and each request's floor, release time, and priority. The interface shows the selected pickup order, arrival and wait times, average and maximum wait, and travel time for both strategies.
 
+## Live Demo
+
+Try the live app: [smart-elevator-schedule.onrender.com](https://smart-elevator-schedule.onrender.com).
+
+The free instance may take around 50 seconds to wake after inactivity.
+
 ## Run locally
 
 1. Install Python 3.
